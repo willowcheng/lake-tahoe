@@ -7,8 +7,8 @@
   #ffa949 url('../img/mountains.jpg') no-repeat center;
   background-size: cover;
   color: white;
+  @extend %centered;
 }
-
 
 .primary-content,
 .main-header,
