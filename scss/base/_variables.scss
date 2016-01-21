@@ -24,3 +24,17 @@ $color-sec          : $river-bed;
 $color-text-light   : $white;
 $color-text-base    : $grey;
 $color-text-dark    : $river-bed;
+
+// Font stacks
+
+$stack-sans-serif   : Helvetica, Arial, sans-serif;
+$stack-helvetica    : "Helvetica Neue", $stack-sans-serif;
+$stack-abolition    : 'Abolition Regular',  $stack-sans-serif;
+
+// Border radius
+
+$br                 : 10px;
+
+// Asset paths
+
+$path-img           : '../img';
